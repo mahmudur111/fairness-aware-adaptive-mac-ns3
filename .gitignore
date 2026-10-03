@@ -1,0 +1,7 @@
+build/
+cmake-cache/
+*.pcap
+*.xml
+*.log
+__pycache__/
+*.pyc
